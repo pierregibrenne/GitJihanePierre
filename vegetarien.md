@@ -6,4 +6,3 @@ blé
 coca
 pepsi
 orangina
-
