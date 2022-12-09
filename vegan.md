@@ -1,0 +1,3 @@
+lait 
+oeuf
+pain
